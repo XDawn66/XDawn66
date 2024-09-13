@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XDawn66
 - 👀 I’m interested in ALL KINDS OF CODING
-- 🌱 I’m currently learning python, javascript
+- 🌱 I’m currently working on AI relative projects
 - 💞️ I’m looking for programming relative interns.
 - 📫 How to reach me jiang1241838337@gmail.com
 
