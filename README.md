@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @XDawn66
-- 👀 I’m interested in reinfrocement learning and multi-agent system
-- 🌱 I’m currently working on AI relative projects
-- 💞️ I’m looking for ML/robotic relative interns.
-- 📫 How to reach me zhj014@ucsd.edu
+👋 Hi, I’m Zhenyu (@XDawn66)
+
+🤖 I’m an RL & Robotics Engineer interested in reinforcement learning, multi-agent systems, autonomous systems, and robot control.
+
+🔬 I’m currently working on scalable multi-agent reinforcement learning and formation control, including SAC-based adaptive control and Transformer architectures.
+
+🚗 I also have experience with autonomous robotics, ROS2, perception pipelines, Jetson platforms, and camera/LiDAR-based systems.
+
+💼 I’m looking for opportunities in reinforcement learning, robotics, autonomous systems, and controls/ML.
+
+📫 Reach me at: jiang1241838337@gmail.com
 
 <!---
 XDawn66/XDawn66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
